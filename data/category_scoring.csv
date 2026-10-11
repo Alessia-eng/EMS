@@ -1,0 +1,21 @@
+question,answer,operation,planning,integrated
+Q1,Energy system,0,1,4
+Q1,Power system,3,3,1
+Q1,Both / integrated,1,2,4
+Q1,I'm not sure,1,1,1
+Q2,Long-term planning / capacity expansion,1,5,3
+Q2,Short-term operation / dispatch,5,2,1
+Q2,Electricity-market analysis,1,3,1
+Q2,Network / power-flow analysis,5,1,0
+Q2,Energy-transition / scenario analysis,0,3,5
+Q2,A combination,2,2,2
+Q3,Seconds to hours,4,0,1
+Q3,Days to months,2,2,1
+Q3,Years to decades,0,4,4
+Q3,Multiple time scales,2,3,3
+Q4,None / mainly energy balances,0,2,3
+Q4,Regional or zonal constraints,2,4,2
+Q4,Transmission network,2,5,1
+Q4,Detailed representation of the electrical system,6,2,0
+Q4,Multiple energy networks / energy carriers,1,2,6
+Q4,I'm not sure,1,1,1

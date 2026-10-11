@@ -1,0 +1,19 @@
+tool,category,Open source,Python / programmatic,Commercial / industry use,Long-term planning,Operational modelling,Market modelling,Detailed network modelling,Multiple energy carriers,Easy to learn
+PSSE,Power-system operation,0,2,4,0,4,0,4,0,0
+PowerFactory,Power-system operation,0,2,4,0,4,0,4,0,0
+ETAP,Power-system operation,0,0,4,0,4,0,4,0,0
+pandapower,Power-system operation,4,4,0,0,4,0,4,0,3
+PSR NCP / SDDP,Power-system operation,0,0,0,0,4,0,4,0,0
+PLEXOS,Power-system planning,0,2,4,4,0,4,2,2,0
+PSR OptGen / SDDP,Power-system planning,0,0,0,4,0,3,2,0,0
+NEPLAN,Power-system planning,0,0,3,0,0,0,0,0,0
+WASP,Power-system planning,3,0,0,4,0,0,0,0,0
+PyPSA,Power-system planning,4,4,0,4,0,2,0,3,3
+FLEXTOOL,Power-system planning,3,0,0,3,0,0,0,0,0
+Balmorel,Power-system planning,3,0,0,3,0,3,0,0,0
+ReMIX,Power-system planning,3,0,0,3,0,0,0,0,0
+TIMES,Integrated energy-system planning,2,0,0,4,0,0,0,4,0
+MESSAGE-MAED,Integrated energy-system planning,2,0,0,4,0,0,0,4,0
+MESSAGEix,Integrated energy-system planning,4,0,0,4,0,0,0,4,0
+OSeMOSYS,Integrated energy-system planning,4,0,0,4,0,0,0,4,3
+LEAP,Integrated energy-system planning,2,0,0,4,0,0,0,4,4
